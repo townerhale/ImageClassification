@@ -1,0 +1,2 @@
+For the method cnn_feature_extraction.m the path for the location of the training and test data may need to be changed.
+For the cnn_feature_extraction.m method to run the 'Neural Network Toolbox for AlexNet Network' needs to be installed from the Matlab Get Add-Ons section.
